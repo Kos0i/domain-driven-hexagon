@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 AHAHHAHAHHA
 OHOHOHOO
 IHIIHIHI
+=======
+popopopopo
+nononon
+popopo
+>>>>>>> branch2
